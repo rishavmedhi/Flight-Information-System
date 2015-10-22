@@ -1,7 +1,7 @@
 # Flight-Information-System
 It is a information retrieval system which can be used to look for airport details, flight details between various cities and also tracking the flight
 
-This is made in Java Netbeans and database being made over MySQL
+This is made in Java using Netbeans and database present in MySQL
 
 You have 3 options:-
 
